@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#4099ff</color>
+    <color name="greenBase">#1aae04</color>
+    <color name="greenBaseDark">#0c6302</color>
+    <color name="white">#FFFFFF</color>
+    <item name="blue" type="color">#2196f3</item>
+    <item name="purple" type="color">#9c27b0</item>
+    <item name="green" type="color">#1b5e20</item>
+    <item name="orange" type="color">#ff5722</item>
+    <item name="black" type="color">#000000</item>]
+
+    <integer-array name="initial_colors">
+    <item>@color/blue</item>
+    <item>@color/purple</item>
+    <item>@color/green</item>
+    <item>@color/orange</item>
+    <item>@color/greenBase</item>
+    <item>@color/purple</item>
+    <item>@color/green</item>
+    <item>@color/orange</item>
+    </integer-array>
+</resources>

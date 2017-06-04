@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "358833256837",
+    "project_id": "firebase-natillapp"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:358833256837:android:ef324c96b90a2d91",
+        "android_client_info": {
+          "package_name": "com.teis.david.chasky"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "358833256837-s48dglgdl3gvsdqpsodgeposkpat6mqa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.teis.david.chasky",
+            "certificate_hash": "88706f4ed9d721541f6ec848c8950accb101fb39"
+          }
+        },
+        {
+          "client_id": "358833256837-k9mmaepu5ukg5qerl1l4ftd2an3lm4mc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCK4_FIu3T9YrbsGQfzYlOuJ6Dy9EjSgGE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

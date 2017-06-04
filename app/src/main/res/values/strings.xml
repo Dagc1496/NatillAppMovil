@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Chasky</string>
+    <string name="action_settings">Settings</string>
+    <string name="fab">Añadir Natillera</string>
+
+    <string-array name="names_array">
+    <item>Casa</item>
+    <item>Moto</item>
+    <item>Diciembre</item>
+    <item>Paseo</item>
+    <item>Gaviria Gay</item>
+    <item>Diciembre</item>
+    <item>Paseo</item>
+    <item>Mono Gay</item>
+    </string-array>
+
+    <integer-array name="metas_array">
+        <item>50000</item>
+        <item>100000</item>
+        <item>75000</item>
+        <item>200000</item>
+        <item>10000</item>
+        <item>75000</item>
+        <item>200000</item>
+        <item>10000</item>
+    </integer-array>
+
+    <integer-array name="ahorros_array">
+        <item>40000</item>
+        <item>100000</item>
+        <item>70000</item>
+        <item>10000</item>
+        <item>2000</item>
+        <item>70000</item>
+        <item>10000</item>
+        <item>2000</item>
+    </integer-array>
+
+</resources>
+
+
